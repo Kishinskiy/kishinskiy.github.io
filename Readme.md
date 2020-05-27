@@ -1,5 +1,5 @@
 # My Personal Web Page
-![Image site](/images/view.png "Preview")
+![GitHub Logo](/images/view.png)
 
 #
 https://kishinskiy.github.io
